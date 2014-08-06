@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Amiras Life </title>
+<link rel="stylesheet" href="http://use.typekit.net/c/3986f1/futura-pt:n3:n7.SHB:P:2,SH5:P:2/d?3bb2a6e53c9684ffdc9a9bf31d5b2a62b13a99de1109782c8b0e4d9fee6813610020c94644fbf551082a578f74b5b9668ab697f1abdb5f43e458f680db050b6e64415bdbb02932183e660ac465fb02018de1473e6e6d5fe21aab5c252ffae17b08cae5c73e3b9f0b978ade30be884def969317933966818b71be7e0e1820c9bd9b211eccaa2dd4ee2a785ffb0f4bf4955f812f344f92f76aee54a8c058">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+<style>
+.container {
+				color:#FFCCFF; background-color:#181818;
+				height:auto; width:100%; margin:auto;}
+body {
+		background-color:#181818;
+		}
+.header-logo {
+				margin:auto; margin-bottom:0; text-align:center;
+				}
+.header-quote {
+				text-align:center; font-family:Tangerine,serif; font-size:70px;
+				}
+.top-nav,a {
+				text-align:center; font-size:16px;text-decoration:none; color:#FF9999;
+				padding:25px; font-family:"futura-pt",sans-serif;
+			}
+
+.location {
+				padding:15px;float: right; color:#FF9999;
+			}			
+.latest-posts {
+				
+				width:80%; height:auto; text-align:left;
+				}
+			
+</style>
+</head>
+<body>
+<div class="container">
+	<div class="header-logo"> 
+		<img src="http://amiraslife.com/wp-content/themes/amiras/images/AMIRA_Logo_Large.png" 
+	</div>
+	<div class="header-quote"> 
+		<q>Everyday has the potential to be extraordinary</q>
+	</div><hr />
+	<div class="top-nav">
+			<a style="text-decoration:none;"href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\home.html" target="_top"> Home </a>
+			<a href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\about.html" target="_top"> About </a>
+			<a href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\books.html" target="_top"> Books </a>
+			<a href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\blog.html" target="_top"> Blog </a>
+			<a href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\askamira.html" target="_top"> Ask Amira </a>
+			<a href="file:///C:\Users\Ahmed\Documents\bangoweb3.0\contact.html" target="_top"> Contact </a>
+
+	</div> <hr />
+	<div class="latest-posts">
+		
+		
+	</div>
+	<div class="location">
+		<img src="http://amiraslife.com/wp-content/themes/amiras/images/side_WheresAmira_sm.png">
+		<p> Toronto, Canada  </p>	
+	</div>
+	<div class="xmas-countdown"> </div>
+	<div class="social-media"> </div>
+	<div class="book"> </div>
+	<div class="vclasseo"> </div>
+	<div class="ask-amira"> </div>
+	
+</div>
+</body>
+
+</html>
